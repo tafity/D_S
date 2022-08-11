@@ -985,7 +985,7 @@ i {
     color: rgba(255, 255, 255, 0.5);
     padding-bottom: 7px;
 }
-_c_name {
+._c_name {
     font-family: 'Nunito Sans';
     font-style: normal;
     font-weight: 400;
@@ -993,6 +993,7 @@ _c_name {
     line-height: 21px;
     color: rgba(255, 255, 255, 0.5);
     padding-bottom: 7px;
+    margin-top: -10px;
 }
 .__checkbox {
     border: none;
