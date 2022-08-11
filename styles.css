@@ -129,7 +129,7 @@ body {
    position: relative;
 }
 .background {
-    background-image: url(Img/background.png);
+    background-image: url(img/int-main.png);
     background-size: cover;
     height: 707px;
     padding-top: 194px;
